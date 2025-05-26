@@ -1,0 +1,9 @@
+- Shënim -
+
+Momentalisht në projektin që po bashkangjis
+mungojnë class diagram të design patterns
+dhe sequence & collaboration diagrams.
+
+Sapo t'i kem gati dhe këto të fundit, do i postoj këtu.
+
+Faleminderit :)
